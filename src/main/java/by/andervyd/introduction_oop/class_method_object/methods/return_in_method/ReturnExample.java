@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.methods.return_in_method;
+package by.andervyd.introduction_oop.class_method_object.methods.return_in_method;
 
 public class ReturnExample {
 

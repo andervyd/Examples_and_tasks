@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.constructors.vehicle;
+package by.andervyd.introduction_oop.class_method_object.constructors.vehicle;
 
 public class VehicleConstDemo {
     public static void main(String[] args) {

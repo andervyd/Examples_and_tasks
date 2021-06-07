@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.methods.vehicle;
+package by.andervyd.introduction_oop.class_method_object.methods.vehicle;
 
 public class VehicleMethodDemo {
     public static void main(String[] args) {

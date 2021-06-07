@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.constructors.number;
+package by.andervyd.introduction_oop.class_method_object.constructors.number;
 
 public class NumberDemo {
     public static void main(String[] args) {

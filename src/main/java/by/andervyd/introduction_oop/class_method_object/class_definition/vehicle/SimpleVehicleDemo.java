@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.class_definition.vehicle;
+package by.andervyd.introduction_oop.class_method_object.class_definition.vehicle;
 
 public class SimpleVehicleDemo {
     public static void main(String[] args) {

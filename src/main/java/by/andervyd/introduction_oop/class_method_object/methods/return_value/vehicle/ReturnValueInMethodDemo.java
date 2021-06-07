@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.methods.return_value.vehicle;
+package by.andervyd.introduction_oop.class_method_object.methods.return_value.vehicle;
 
 public class ReturnValueInMethodDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package by.andervyd.introduction_oop.constructors.ten;
+package by.andervyd.introduction_oop.class_method_object.constructors.ten;
 
 public class Ten {
     int x;
