@@ -1,0 +1,1 @@
+Type_array[] name_array = new type_array[size]
