@@ -1,4 +1,4 @@
-package by.andervyd.syntax_introduction.cast.widening_casting.narrowing_casting;
+package by.andervyd.syntax_introduction.cast.narrowing_casting;
 
 public class ExplicitExample {
     public static void main(String[] args) {
