@@ -1,6 +1,6 @@
 package by.andervyd.introduction_oop.principles_obj_prog.polymorphism;
 
-public class VehicleOverrideDemo {
+public class PolyVehicleDemo {
     public static void main(String[] args) {
 
         Vehicle vehicle = new Vehicle(2, 2, 100, 9);
