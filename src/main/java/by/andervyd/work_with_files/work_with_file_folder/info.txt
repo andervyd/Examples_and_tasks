@@ -1,0 +1,9 @@
+java.io package
+
+BufferInputStream
+DataInputStream
+
+work with XML
+1. DOM  (Document Object Model)
+2. SAX  (Simple API for XML)
+3. XSLT (Extended Stylesheet Transformation)
